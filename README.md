@@ -1,16 +1,21 @@
-### Hi there 👋
+# Victor Long
 
-<!--
-**nackor/nackor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm Victor Long, a developer with a focus in healthcare IT and some light game development. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Role
+
+-  I'm currently a earning a Master's in Computer Science from the University of Washington.
+
+### Featured Repositories
+
+#### Maze Solver
+
+The MazeSolver repo is a repo which has my initial attempt at coding a genetic algorithm. It is what I am currentlly working on.
+
+[![GitHub stars](https://img.shields.io/github/stars/YourUsername/RepositoryName.svg?style=social)](https://github.com/nackor/MazeSolver)
+
+### Social Media Links
+
+- Email: victor.w.long91@gmail.com
+- LinkedIn: [Victor Long](linkedin.com/in/victor-w-long)
