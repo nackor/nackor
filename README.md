@@ -9,11 +9,11 @@ Welcome to my GitHub profile! I'm Victor Long, a developer with a focus in healt
 
 ### Featured Repositories
 
-#### Maze Solver
+#### [Maze Solver](https://github.com/nackor/MazeSolver)
 
 The MazeSolver repo is a repo which has my initial attempt at coding a genetic algorithm. It is what I am currentlly working on.
 
-[![GitHub stars](https://img.shields.io/github/stars/nackor/MazeSolver.svg?style=social)](https://github.com/nackor/MazeSolver)
+
 
 ### Social Media Links
 
