@@ -19,3 +19,4 @@ The MazeSolver repo is a repo which has my initial attempt at coding a genetic a
 
 - Email: victor.w.long91@gmail.com
 - LinkedIn: [Victor Long](linkedin.com/in/victor-w-long)
+- ItchIO Games: https://nackor.itch.io/
