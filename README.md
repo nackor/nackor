@@ -1,7 +1,6 @@
 # Victor Long
 
-
-Welcome to my GitHub profile! I'm Victor Long, a developer with a focus in healthcare IT and some light game development. 
+I'm Victor Long, a developer with a focus in healthcare IT and some light game development. 
 
 ### Current Role
 
