@@ -10,7 +10,7 @@ I'm Victor Long, a developer with a focus in healthcare IT and some light game d
 
 #### [Maze Solver](https://github.com/nackor/MazeSolver)
 
-The MazeSolver repo is a repo which has my initial attempt at coding a genetic algorithm. It is what I am currentlly working on.
+The MazeSolver is an in progress game to teach players about genetic algorithms. Players will progressively have their minions solve mazes by tweaking their genetics. 
 
 
 
