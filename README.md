@@ -4,7 +4,7 @@ I'm Victor Long, a developer with a focus in healthcare IT and some light game d
 
 ### Current Role
 
--  I'm currently a earning a Master's in Computer Science from the University of Washington.
+-  I'm currently working at Microsoft as a Senior Epic Architect.
 
 
 ### Social Media Links
